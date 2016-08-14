@@ -1,0 +1,9 @@
+{
+  "name": "sample-server",
+  "version": "0.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "express": "^4.4.5"
+  }
+}
